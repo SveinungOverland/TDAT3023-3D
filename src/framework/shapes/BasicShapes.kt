@@ -7,15 +7,36 @@ import com.jogamp.opengl.GL2.GL_QUAD_STRIP
 import com.jogamp.opengl.GL2ES3.GL_QUADS
 import scenes.moveTo
 
-open
 
-class Point(val x: Float = 0f, val y: Float = 0f, val z: Float = 0f) {
+open class Point(val x: Float = 0f, val y: Float = 0f, val z: Float = 0f) {
     companion object {
         fun X(x: Float) = Point(x, 0f, 0f)
         fun Y(y: Float) = Point(0f, y, 0f)
         fun Z(z: Float) = Point(0f, 0f, z)
         fun UNI(xyz: Float) = Point(xyz, xyz, xyz)
+        fun fromAxis(axis: Axis) = when(axis) {
+            Axis.X_pos -> X(1f)
+            Axis.X_neg -> X(-1f)
+            Axis.Y_pos -> Y(1f)
+            Axis.Y_neg -> Y(-1f)
+            Axis.Z_pos -> Z(1f)
+            Axis.Z_neg -> Z(-1f)
+        }
     }
+
+    enum class Axis {
+        X_pos, X_neg, Y_pos, Y_neg, Z_pos, Z_neg
+    }
+
+    fun rotationAxis(): Axis = when {
+        x > y && x > z -> Axis.X_pos
+        y > z && y > x -> Axis.Y_pos
+        z > x && z > y -> Axis.Z_pos
+        x < y && x < z -> Axis.X_neg
+        y < x && y < z -> Axis.Y_neg
+        else -> Axis.Z_neg
+    }
+
 
     fun normalize(scale: Float = 1f): Point {
         val max = listOf(this.x, this.y, this.z).map { if (it < 0) it * -1 else it }.max() ?: 1f

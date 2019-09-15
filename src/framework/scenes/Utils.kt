@@ -33,8 +33,9 @@ class Color(val r: Float, val g: Float, val b: Float, val a: Float = 1f) {
                     rnd.nextFloat()
             )
         }
-
     }
+
+    fun copy(): Color = Color(r, g, b)
 }
 
 @ExperimentalContracts
