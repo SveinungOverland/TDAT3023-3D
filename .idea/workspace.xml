@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d6d7a87-9c1e-41de-85b2-c29387319c17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oppgave1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-test-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/kotlin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/DelA/DelAKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/DelA/Oppgave1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/DelB/DelBKt$scene$1$constructor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/DelB/DelBKt$scene$1$drawFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/DelB/DelBKt$scene$1$init$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/DelB/DelBKt$scene$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/DelB/DelBKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/META-INF/Oppgave1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelA/MainKt$scene$1$constructor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelA/MainKt$scene$1$drawFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelA/MainKt$scene$1$init$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelA/MainKt$scene$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelA/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelB/MainKt$scene$1$constructor$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelB/MainKt$scene$1$constructor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelB/MainKt$scene$1$drawFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelB/MainKt$scene$1$init$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelB/MainKt$scene$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave2/DelB/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixAnimator$Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixAnimator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixKt$scene$1$constructor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixKt$scene$1$drawFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixKt$scene$1$init$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixKt$scene$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixKt$startTime$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/Oppgave3/RubixKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/scenes/AnimatedScene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/scenes/AutoVerticalSplitViewPortsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/scenes/BasicCamera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/scenes/BasicCameraKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/scenes/BasicViewPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/scenes/FrameSizeSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/scenes/OrbitCamera.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/shapes/Cubie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/shapes/CubieKt$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/shapes/CubieKt$saveState$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/shapes/CubieKt$saveState$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/framework/shapes/CubieKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/BasicReshaper$DefaultImpls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/BasicReshaper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/BasicScene.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/Color$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/SceneConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/SceneConfigKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/scenes/UtilsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/shapes/BasicShapesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/shapes/Point$Axis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/shapes/Point$Companion$WhenMappings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/shapes/Point$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oppgave1/shapes/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oppgave1/DelA/DelA.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oppgave1/DelB/DelB.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oppgave2/DelA/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oppgave2/DelB/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oppgave3/Rubix.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/AnimatedScene.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/AutoVerticalSplitViewPorts.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/BasicCamera.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/BasicReshaper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/BasicScene.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/BasicViewPort.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/FrameSizeSingleton.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/OrbitCamera.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/SceneConfig.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/scenes/Utils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/shapes/BasicShapes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/framework/shapes/Cubie.kt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Qvr0V2Zi1CAI1J4wR2EL6w0eX0" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d6d7a87-9c1e-41de-85b2-c29387319c17" name="Default Changelist" comment="" />
+      <created>1568661688002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568661688002</updated>
+      <workItem from="1568661690713" duration="35000" />
+    </task>
+    <servers />
+  </component>
+</project>
